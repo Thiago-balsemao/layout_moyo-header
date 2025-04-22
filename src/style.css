@@ -75,14 +75,14 @@ nav ul li a.is-active {
 }
 
 @media (max-width: 1024px) {
-  .menu {
+  .header {
     max-width: 1024px;
     height: 60px;
   }
 }
 
 @media (max-width: 1200px) {
-  .menu {
+  .header {
     max-width: 1200px;
     height: 60px;
   }
